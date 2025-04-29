@@ -1,0 +1,9 @@
+opencv-python
+torch
+torchvision
+mediapipe
+numpy
+scipy
+moviepy
+ffmpeg-python
+blender
